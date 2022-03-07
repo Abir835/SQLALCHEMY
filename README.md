@@ -11,7 +11,7 @@
 
 ** pip install SQLAlchemy
 
-I am solve some problem with sqlalcemy.
+I solved some problem with sqlalcemy.
 
 1. How to create database eith sqlite?
 2. show all customer data count total order per customer with condition between date ?
